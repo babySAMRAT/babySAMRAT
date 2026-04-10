@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="banner"/>
+</div>
+
 # 💫 About Me:
 🔐 Cybersecurity student @ VIT Bhopal | Pentester & Security Researcher | WPA2/WPA3, Kubernetes Security, Web App VAPT | Building open-source security tools | CEH in progress<br>🔭 Currently working on: EAPx (custom WPA-Enterprise attack tool) <br>🌱 Currently learning: CRTP, Cloud Security (AWS, Kubernetes), Wireless Security, Artificial intelligence<br>
 
